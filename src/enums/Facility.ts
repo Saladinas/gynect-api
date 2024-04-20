@@ -1,0 +1,15 @@
+export enum FacilityEnum {
+  FREE_WEIGHT_AREA = "Free Weight Area",
+  WEIGHT_TRAINING_MACHINES = "Weight Training Machines",
+  CARDIO_AREA = "Cardio Area",
+  SAUNA = "Sauna",
+  SWIMMING_POOL = "Swimming Pool",
+  FREE_PARKING = "Free Parking",
+  PAID_PARKING = "Paid Parking",
+  FREE_WIFI = "Free Wifi",
+  CHILD_CARE_FACILITIES = "Child-care facilities",
+  CHANGING_ROOM = "Changing Room",
+  SHOWER = "Shower",
+  EGYM = "EGYM",
+  PHONE_CHARGING_STATION = "Phone Charging Station",
+}
