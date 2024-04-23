@@ -121,7 +121,9 @@
       "Sunday": null,
       "Gym-type": ["Boxing", "Muay Thai", "MMA"],
       "Name": "MMA Bros",
-      "Pictures": [],
+      "Pictures": [
+        "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F3995948f0b2c75be55c2eaaabc1b4da7.cdn.bubble.io%2Ff1705517972474x454060800116442400%2FImage%252003.01.24%2520at%252015.24.jpg?w=384&h=303&auto=compress&fit=crop&dpr=2&q=75"
+      ],
       "Price-per-month": 140,
       "Price-per-visit": 10,
       "QR-Code": null,
@@ -145,7 +147,9 @@
       "Sunday": null,
       "Gym-type": ["Yoga", "Pilates"],
       "Name": "Fit & bright",
-      "Pictures": [],
+      "Pictures": [
+        "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F3995948f0b2c75be55c2eaaabc1b4da7.cdn.bubble.io%2Ff1707751581601x667412202014784800%2FCrossfit.jpg?w=384&h=303&auto=compress&fit=crop&dpr=2&q=75"
+      ],
       "Price-per-month": 110,
       "Price-per-visit": 12.5,
       "QR-Code": null,
